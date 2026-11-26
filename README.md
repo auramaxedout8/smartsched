@@ -1,3 +1,3 @@
 # smartsched
-time management
+time management project
 for student
